@@ -1,4 +1,4 @@
-# Docs prot service 2 README
+# Service 2 - Kubernetes
 
 > Testing
 
